@@ -62,10 +62,6 @@ A legal-tech platform for automating research across Mexican federal & CDMX legi
 
 ---
 
-## 📈 GitHub Stats (Disabled for now — enabling later)
-
-## 📈 GitHub Stats
-
 ## 📈 GitHub Stats
 
 <p align="center">
