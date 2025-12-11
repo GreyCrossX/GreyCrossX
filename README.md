@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Miguel Athie  
-**Backend Engineer • AI Developer • Legal-Tech Innovator**
+**Backend Engineer • AI Developer • Legal-Tech**
 
 I design and build production-grade backend systems, AI-driven tools, and clean-architecture services.  
 My work focuses on reliability, performance, and solving real-world domain problems in trading, law, and automation.
@@ -12,7 +12,7 @@ My work focuses on reliability, performance, and solving real-world domain probl
 High-frequency market ingestion, Redis Streams, async Postgres, smart SMA/regime detection,  
 order execution workflows, and Binance USDS Futures integration.
 
-### 📚 LexTool — AI Research Engine for Lawyers
+### 📚 LexToolkit — AI Research Engine for Lawyers
 Scraping + structuring Mexican federal & CDMX legislation, vector storage (pgvector),  
 legal-domain chunking, retrieval pipelines, and LangGraph-based agent workflows.
 
