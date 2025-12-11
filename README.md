@@ -64,12 +64,7 @@ A legal-tech platform for automating research across Mexican federal & CDMX legi
 
 ## 📈 GitHub Stats (Disabled for now — enabling later)
 
-```md
-<!-- Uncomment once using self-hosted or working mirrors -->
-
-<!-- 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GreyCrossX&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats-git-master-mike-athies-projects.vercel.app/)&show_icons=true&theme=tokyonight" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreyCrossX&layout=compact&theme=tokyonight" />
 </p>
--->
