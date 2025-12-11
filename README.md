@@ -35,7 +35,7 @@ A production-style trading architecture with:
 
 ---
 
-### 📚 **LexTool — AI Research Engine for Lawyers**
+### 📚 **LexToolkit — AI Research Engine for Lawyers**
 A legal-tech platform for automating research across Mexican federal & CDMX legislation:
 - Custom scrapers for legislation with OCR fallback
 - Domain-aware chunking (article, paragraph, fraction-level)
