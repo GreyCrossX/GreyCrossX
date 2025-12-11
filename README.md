@@ -65,13 +65,6 @@ A legal-tech platform for automating research across Mexican federal & CDMX legi
 
 <p align="center">
   <img
-    src="https://github-readme-stats-five-psi-48.vercel.app/api?username=GreyCrossX&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&rank_icon=percentile"
-    alt="GreyCrossX GitHub stats"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://github-readme-stats-five-psi-48.vercel.app/api/top-langs/?username=GreyCrossX&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&langs_count=6"
     alt="GreyCrossX top languages"
   />
