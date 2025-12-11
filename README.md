@@ -61,7 +61,7 @@ A legal-tech platform for automating research across Mexican federal & CDMX legi
 - Tooling that augments human workflows  
 
 ---
-## 📈 GitHub Stats
+## 📈 My most used languages
 
 <p align="center">
   <img
