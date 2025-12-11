@@ -63,9 +63,9 @@ legal-domain chunking, retrieval pipelines, and LangGraph-based agent workflows.
 ---
 
 ## 🌐 Connect
-- **LinkedIn:** https://www.linkedin.com/in/miguel-athie  
 - **Email:** miguelathie@gmail.com  
-- **Twitter/X:** (add if you want)
+- **Twitter/X:@mike_athie
+- **Web:http://www.greyx.dev
 
 ---
 
