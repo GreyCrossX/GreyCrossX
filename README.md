@@ -57,7 +57,7 @@ legal-domain chunking, retrieval pipelines, and LangGraph-based agent workflows.
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GreyCrossX&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreyCrossX&layout=compact&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreyCrossX&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=GreyCrossX&layout=compact&theme=tokyonight)" />
 </p>
 
 ---
