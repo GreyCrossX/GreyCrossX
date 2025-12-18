@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Miguel Athie (GreyCrossX)
+# 👋 Hi, I'm Miguel Athie (GreyCross)
 **Backend Engineer & AI Developer**
 
 I build production-ready backend systems, distributed services, and AI-powered tools.  
