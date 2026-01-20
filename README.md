@@ -56,9 +56,8 @@ I am seeking **Backend-leaning Fullstack** or **Distributed Systems** roles with
 ---
 
 ## 📫 Connect with me
-- **LinkedIn:** [linkedin.com/in/miguel-athie](https://www.linkedin.com/in/miguel-athie)
-- **Portfolio:** [greycross.dev](https://greycross.dev) (Optional)
-- **Email:** [Your Email Here]
+- **Portfolio:** [greycross.dev](https://greycross.dev)
+- **Email:** admin@greyx.dev
 
 <p align="center">
   <img src="https://github-readme-stats-five-psi-48.vercel.app/api/top-langs/?username=GreyCrossX&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&langs_count=6" alt="GreyCrossX top languages" />
